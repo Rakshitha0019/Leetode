@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0088-merge-sorted-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rakshitha0019/Leetode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Rakshitha0019/Leetode/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Rakshitha0019/Leetode/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Rakshitha0019/Leetode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
