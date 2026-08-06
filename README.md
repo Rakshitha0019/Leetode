@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Rakshitha0019/Leetode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshitha0019/Leetode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rakshitha0019/Leetode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rakshitha0019/Leetode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Rakshitha0019/Leetode/tree/master/3731-find-missing-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rakshitha0019/Leetode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
