@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Rakshitha0019/Leetode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rakshitha0019/Leetode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshitha0019/Leetode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/2460-apply-operations-to-an-array) |
 | [3731-find-missing-elements](https://github.com/Rakshitha0019/Leetode/tree/master/3731-find-missing-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Rakshitha0019/Leetode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Rakshitha0019/Leetode/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rakshitha0019/Leetode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Rakshitha0019/Leetode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rakshitha0019/Leetode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rakshitha0019/Leetode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Rakshitha0019/Leetode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakshitha0019/Leetode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rakshitha0019/Leetode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
