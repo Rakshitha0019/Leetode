@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rakshitha0019/Leetode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshitha0019/Leetode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/2460-apply-operations-to-an-array) |
+| [2974-minimum-number-game](https://github.com/Rakshitha0019/Leetode/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/Rakshitha0019/Leetode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/2460-apply-operations-to-an-array) |
+| [2974-minimum-number-game](https://github.com/Rakshitha0019/Leetode/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
@@ -52,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rakshitha0019/Leetode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2974-minimum-number-game](https://github.com/Rakshitha0019/Leetode/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rakshitha0019/Leetode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Rakshitha0019/Leetode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Rakshitha0019/Leetode/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
