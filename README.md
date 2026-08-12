@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rakshitha0019/Leetode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/Rakshitha0019/Leetode/tree/master/2974-minimum-number-game) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Rakshitha0019/Leetode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rakshitha0019/Leetode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/Rakshitha0019/Leetode/tree/master/2974-minimum-number-game) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rakshitha0019/Leetode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
