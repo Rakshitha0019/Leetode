@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rakshitha0019/Leetode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rakshitha0019/Leetode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/2460-apply-operations-to-an-array) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Rakshitha0019/Leetode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Simulation
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Rakshitha0019/Leetode/tree/master/1768-merge-strings-alternately) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Rakshitha0019/Leetode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Hash Table
 |  |
 | ------- |
