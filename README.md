@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rakshitha0019/Leetode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshitha0019/Leetode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Rakshitha0019/Leetode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rakshitha0019/Leetode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/Rakshitha0019/Leetode/tree/master/2974-minimum-number-game) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Rakshitha0019/Leetode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rakshitha0019/Leetode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/Rakshitha0019/Leetode/tree/master/2974-minimum-number-game) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rakshitha0019/Leetode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Rakshitha0019/Leetode/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
