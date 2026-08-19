@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Rakshitha0019/Leetode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Rakshitha0019/Leetode/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Rakshitha0019/Leetode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rakshitha0019/Leetode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Rakshitha0019/Leetode/tree/master/0283-move-zeroes) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rakshitha0019/Leetode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Rakshitha0019/Leetode/tree/master/1768-merge-strings-alternately) |
