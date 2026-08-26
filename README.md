@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Rakshitha0019/Leetode/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/Rakshitha0019/Leetode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rakshitha0019/Leetode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rakshitha0019/Leetode/tree/master/3345-smallest-divisible-digit-product-i) |
