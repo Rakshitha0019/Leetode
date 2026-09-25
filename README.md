@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Rakshitha0019/Leetode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rakshitha0019/Leetode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Rakshitha0019/Leetode/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Rakshitha0019/Leetode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Rakshitha0019/Leetode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Rakshitha0019/Leetode/tree/master/0877-stone-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Rakshitha0019/Leetode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rakshitha0019/Leetode/tree/master/0283-move-zeroes) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rakshitha0019/Leetode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0977-squares-of-a-sorted-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Rakshitha0019/Leetode/tree/master/0202-happy-number) |
 | [3731-find-missing-elements](https://github.com/Rakshitha0019/Leetode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Rakshitha0019/Leetode/tree/master/1952-three-divisors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rakshitha0019/Leetode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
