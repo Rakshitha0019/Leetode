@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Rakshitha0019/Leetode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Rakshitha0019/Leetode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Rakshitha0019/Leetode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Rakshitha0019/Leetode/tree/master/0414-third-maximum-number) |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/Rakshitha0019/Leetode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rakshitha0019/Leetode/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rakshitha0019/Leetode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Rakshitha0019/Leetode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
